@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '41497'
     url: http://www.gutenberg.org/2009/agents/41497
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42053#------------------------------Teaching-of-the-Twelve-Apostles
 gutenberg_issued: '2013-02-09'
 gutenberg_type: Text
 identifiers:
