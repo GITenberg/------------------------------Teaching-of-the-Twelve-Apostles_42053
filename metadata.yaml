@@ -1,0 +1,46 @@
+_repo: '------------------------------Teaching-of-the-Twelve-Apostles_42053'
+_version: 0.1.0
+alternative_title: Didache
+contributor:
+  other_contributor:
+    agent_name: Bryennios, Philotheos
+    alias: Vryennios, Philotheos
+    birthdate: 1833
+    deathdate: 1917
+    gutenberg_agent_id: '34983'
+    url: http://www.gutenberg.org/2009/agents/34983
+covers:
+- cover_type: archival
+  image_path: 42053-h/images/cover.jpg
+creator:
+  editors:
+  - agent_name: Brown, Francis
+    birthdate: 1849
+    deathdate: 1916
+    gutenberg_agent_id: '41498'
+    url: http://www.gutenberg.org/2009/agents/41498
+  - agent_name: Hitchcock, Roswell D. (Roswell Dwight)
+    alias: Hitchcock, Roswell Dwight
+    birthdate: 1817
+    deathdate: 1887
+    gutenberg_agent_id: '41497'
+    url: http://www.gutenberg.org/2009/agents/41497
+description: ''
+gutenberg_issued: '2013-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42053'
+  lccn: '32034563'
+language:
+- grc
+- en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Church polity -- History -- Early church, ca. 30-600'
+- !lcsh 'Didache'
+- !lcsh 'Worship -- History -- Early church, ca. 30-600'
+title: Διδαχή των Δώδεκα αποστόλων = Teaching of the Twelve Apostles
+url: http://www.gutenberg.org/ebooks/42053
